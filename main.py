@@ -3,9 +3,6 @@ import numpy as np
 import os
 import math
 
-
-
-
 print('OpenCV verzió:', cv2.__version__)
 print('numpy: ', np.__version__)
 
